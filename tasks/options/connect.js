@@ -12,7 +12,7 @@ var config = {
 
         clientId: '2',
         clientSecret: 'NQ9luohi58Nq6Q7iqximE8xKiqJZRPnkJEqFB1hq',
-        serverUrl: 'http://uad-ayjeqlgk.test.neucloud.cn/',
+        serverUrl: 'http://uad-ayjeqlgk.test.neucloud.cn',
         redirect_uri: 'http://rmd1.test.neucloud.cn/callback',
         defaultClientRoute: '/about'
 
