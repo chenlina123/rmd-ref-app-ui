@@ -10,10 +10,10 @@ var config = {
    */
     uaa: {
 
-        clientId: '1',
-        clientSecret: '12345',
-        serverUrl: 'http://uaa.i.saasapps.cn',
-        redirect_uri: 'http://rmd.i.saasapps.cn/callback',
+        clientId: '2',
+        clientSecret: 'NQ9luohi58Nq6Q7iqximE8xKiqJZRPnkJEqFB1hq',
+        serverUrl: 'http://uad-ayjeqlgk.test.neucloud.cn/#/user/account-manage',
+        redirect_uri: 'https://github.com/chenlina123/rmd-ref-app-ui',
         defaultClientRoute: '/about'
 
     },
