@@ -11,9 +11,9 @@ var config = {
     uaa: {
 
         clientId: '2',
-        clientSecret: 'NQ9luohi58Nq6Q7iqximE8xKiqJZRPnkJEqFB1hq',
-        serverUrl: 'http://uad-ayjeqlgk.test.neucloud.cn',
-        redirect_uri: 'http://rmd1.test.neucloud.cn/callback',
+        clientSecret: 'H1b5VVehQSJqUlvb1U8BQzwB4pG5Wfzf2wSu15gJ',
+        serverUrl: 'http://authuaa-axjq4pyo.neuseer.cn',
+        redirect_uri: 'http://rmd2.neuseer.cn/callback',
         defaultClientRoute: '/about'
 
     },
